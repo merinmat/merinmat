@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Merin Anna Mathew
 - 👀 I’m interested in learning new technologies, developing fully responsive websites, etc.....
-- 🌱 I’m currently learning single page applications, MERN stack, etc....
-- 💞️ I’m looking to collaborate on any frontend or fullstack projects..
+- 🌱 I’m currently learning about single page applications, MERN stack, etc....
+- 💞️ I’m looking to collaborate on any frontend projects
 - 📫 How to reach me => Do email me at merinannamat@gmail.com
 
 <!---
